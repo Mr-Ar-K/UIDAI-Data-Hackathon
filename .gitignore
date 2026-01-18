@@ -206,3 +206,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Databases
+*.db
+
+# Processed large files
+data/processed/
+
+# Jupyter cache
+.ipynb_checkpoints/
+.jupyter_cache/
