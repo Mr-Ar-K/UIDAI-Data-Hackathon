@@ -211,7 +211,7 @@ __marimo__/
 *.db
 
 # Processed large files
-data/processed/
+data/processed/uidai.db
 
 # Jupyter cache
 .ipynb_checkpoints/
